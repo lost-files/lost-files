@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lost-files
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Django,Angular
-- 📫 How to reach me pmirase12@gmail.com
+- 👀 Working as AWS Dev
+- 🌱 I’m currently learning DevOps
+- 📫 How to reach me pmirase111@gmail.com
 <!---
 lost-files/lost-files is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
